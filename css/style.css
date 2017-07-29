@@ -43,3 +43,6 @@ body {background-color: #CCC;}
 .article:first-child {
     border-top:none;
 }
+#submit-btn{
+    cursor: pointer;
+}
